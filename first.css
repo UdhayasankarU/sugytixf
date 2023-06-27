@@ -1,0 +1,7 @@
+.display-6{
+    
+    text-transform: capitalize;
+}
+.table table:nth-child(3*(1)+1){
+    background-color: aquamarine;
+}
